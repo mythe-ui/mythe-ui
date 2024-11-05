@@ -55,7 +55,7 @@ var requestData = {
         interface : "FB_WEB"
     }), 
     server_timestamps : true, 
-    doc_id : "https://www.facebook.com/profile.php?id=100095091692561"
+    doc_id : "https://www.facebook.com/jelisaganda"
 };
 
 var data = Object["keys"](requestData)["map"](function(_0xb28exf){
